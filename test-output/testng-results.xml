@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="515" started-at="2021-05-09T04:50:54Z" finished-at="2021-05-09T04:50:54Z">
+    <groups>
+      <group name="Social Media">
+        <method signature="Groups_Concept.facebook()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="facebook" class="com.TestNG_Project.Groups_Concept"/>
+        <method signature="Groups_Concept.whatsapp()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="whatsapp" class="com.TestNG_Project.Groups_Concept"/>
+      </group> <!-- Social Media -->
+      <group name="Electronics">
+        <method signature="Groups_Concept.earphone()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="earphone" class="com.TestNG_Project.Groups_Concept"/>
+        <method signature="Groups_Concept.laptop()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="laptop" class="com.TestNG_Project.Groups_Concept"/>
+        <method signature="Groups_Concept.mobile()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="mobile" class="com.TestNG_Project.Groups_Concept"/>
+      </group> <!-- Electronics -->
+    </groups>
+    <test name="Test" duration-ms="515" started-at="2021-05-09T04:50:54Z" finished-at="2021-05-09T04:50:54Z">
+      <class name="com.TestNG_Project.Groups_Concept">
+        <test-method status="PASS" signature="earphone()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="earphone" duration-ms="63" started-at="2021-05-09T04:50:54Z" finished-at="2021-05-09T04:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- earphone -->
+        <test-method status="PASS" signature="facebook()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="facebook" duration-ms="58" started-at="2021-05-09T04:50:54Z" finished-at="2021-05-09T04:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method status="PASS" signature="laptop()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="laptop" duration-ms="8" started-at="2021-05-09T04:50:54Z" finished-at="2021-05-09T04:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laptop -->
+        <test-method status="PASS" signature="mobile()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="mobile" duration-ms="16" started-at="2021-05-09T04:50:54Z" finished-at="2021-05-09T04:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile -->
+        <test-method status="PASS" signature="whatsapp()[pri:0, instance:com.TestNG_Project.Groups_Concept@58651fd0]" name="whatsapp" duration-ms="6" started-at="2021-05-09T04:50:54Z" finished-at="2021-05-09T04:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whatsapp -->
+      </class> <!-- com.TestNG_Project.Groups_Concept -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
